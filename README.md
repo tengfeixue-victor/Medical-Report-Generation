@@ -20,13 +20,13 @@ After downloading, please unzip it into **"IUdata"** folder.
 #### First, generate .json and .pkl data in "IUdata" folder (I have done it)
 
 #### Second, start train!
-- you can train directly, the performance will be tested after each epoch.
+- you can train directly, the performance will be **tested** after each epoch.
     ```
     $ python trainer.py
     ```
     
 ## Test
-Before testing, please only keep one set of weights in the **"model_weights"** folder, e.g., 1-finding_decoder-9.ckpt, 1-image_encoder-9.ckpt, 1-impression_decoder-9.ckpt. 
+Before testing, please only keep one set of weights in the **"model_weights"** folder, e.g., 1-finding_decoder-9.ckpt, 1-image_encoder-9.ckpt, 1-impression_decoder-9.ckpt. Only three .ckpt files are allowed in model_weights folder.
 
 Run
     ```
