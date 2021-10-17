@@ -2,7 +2,7 @@
 
 This repository reimplements the *recurrent-conv* model in 2018 MICCAI paper: Multimodal Recurrent Model with Attention for Automated Radiology Report Generation [1].
 
-The source code is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. The contents of this repository are released under an [Apache 2](LICENSE) license.
+The source code is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. The contents of this repository are released under an [MIT](LICENSE) license.
 
 ## Dependencies
 
